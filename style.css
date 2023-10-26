@@ -1,0 +1,60 @@
+img.slide{
+   height: 612px; 
+}
+.border-2 {
+    border-width: 4px !important;
+}
+.row {
+    --bs-gutter-x: -4.5rem;
+}
+.card {
+    --bs-card-spacer-y: 3rem;
+}
+.row {
+    --bs-gutter-x: -0.5rem;
+    padding-left: 9%;
+
+}
+.col-4 {
+    flex: 0 0 auto;
+    width: 33.3333%;
+}
+element.style {
+    width: 13rem;
+    height: 22rem;
+}  
+
+
+
+element.style {
+    width: 12rem;
+}
+
+@media screen and (min-width: 480px){
+    h1{
+        color:darkblue;
+    }
+    
+}
+@media screen and (max-width: 480px){
+    h1{
+        color:tomato;
+    }
+    
+}
+
+
+
+
+
+
+/* .w-100 {
+    width: 101% !important;
+} */
+
+
+/* @media (min-width: 768px){
+.container-md, .container-sm, .container {
+    max-width: 852px;
+}
+} */
